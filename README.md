@@ -2,6 +2,7 @@
 
 <p>&#128161; I am a Fullstack Developer, Game Designer, and Programmer.</p>
 <p>&#127891; I have a degree In Game Design as well as certificates in Full Stack Development and UX Design.</p>
+<p>&#127793; Currently improving my cloud based services and SQL skills.</p>
 
 <br>
 
