@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,vscode,godot,unity,git,github,html,css,js,vue,bootstrap,postman,nodejs,figma,discord" />
+  </a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ross-Crimson&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ross-Crimson" /></p>
 <!--
 **Ross-Crimson/Ross-Crimson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
