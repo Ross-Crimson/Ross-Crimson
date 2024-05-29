@@ -9,9 +9,6 @@
 
 <p>📫 How to reach me: <a href="https://www.linkedin.com/in/roswell-pataro/">LinkedIn</a></p>
 
-<br>
-<hr>
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,vscode,godot,unity,git,github,html,css,js,vue,bootstrap,postman,nodejs,figma,discord" />
