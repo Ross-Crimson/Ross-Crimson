@@ -5,8 +5,12 @@
 <p>- &#127793; Currently improving my cloud based services and SQL skills.</p>
 
 <br>
+<hr>
 
 <p>📫 How to reach me: <a href="https://www.linkedin.com/in/roswell-pataro/">LinkedIn</a></p>
+
+<br>
+<hr>
 
 <p>
   <a href="https://skillicons.dev">
