@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Ross Pataro </b></h1> <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">-->
+<h1 align="center"><b>Hi , I'm Roswell Pataro </b></h1> <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">-->
 
 <p>- &#128161; I am a Fullstack Developer, Game Designer, and Programmer.</p>
 <p>- &#127891; I have a degree In Game Design and certificates in Full Stack Development and UX Design.</p>
